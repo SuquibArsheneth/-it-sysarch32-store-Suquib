@@ -1,0 +1,126 @@
+
+.grid-cols-4 {
+    display: flex;
+   
+    
+  }
+  
+  .image-buttons-1{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 30px;
+   border-radius: 20px;
+   background-color: rgb(255, 255, 255);
+  }
+  
+.container {
+    width: 800px; /* Adjust as needed */
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-left: -300px;
+    margin-top: 100px;
+    
+   
+  }
+  .container2{
+    width: 800px; /* Adjust as needed */
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-left: -650px;
+    margin-top: 100px;
+    
+    
+  }
+  .product-image-lv{
+    margin-right: 10px;
+    margin-top: 60px;
+  }
+  /* Add your existing styles here */
+  
+   .close-button{
+    margin-left: -800px;
+    margin-top: -10px;
+    background-color: rgb(250, 105, 192);
+    border-radius: 20px;
+    height: 30px;
+   }
+   .add-to-cart{
+    background-color: rgb(244, 81, 170);
+    margin-bottom: 30px;
+    border-radius: 20px;
+    height: 30px;
+   }
+   .product-details{
+    background-color: rgb(254, 254, 254);
+    width: 200px;
+    margin-top: -330px;
+    height: 300px;
+    margin-left: 550px;
+    font-size: small;
+    font-style: italic;
+    margin-bottom: -30px;
+   }
+   .mx-auto{
+    margin-top: 680px;
+    margin-left: 400px;
+   }
+   .featured-title{
+    font-size: larger;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   word-spacing: 20px;
+   }
+   .container_choices{
+    margin-top: -250px;
+    background-color: rgb(170, 166, 162);
+    width: 240px;
+    border-radius: 30px;
+    border: 3px solid #0c0b0c;
+    height: 200px;
+    margin-left: 125px;
+   }
+   .style{
+    font-size: large;
+    margin-left: 75px;
+   }
+   .stylers{
+    font-size: large;
+    margin-left: 75px;
+    margin-top: 30px;
+   }
+   .btn1{
+    background-color: #917991;
+    border-radius: 20px;
+    margin-left: 20px;
+   }
+   .btn2{
+    background-color: #917991;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+   }
+   .btn3{
+    background-color: #917991;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 10px;
+   }
+   .btn4{
+    background-color: #917991;
+    border-radius: 20px;
+    margin-left: 25px;
+   }
+  .containerns{
+    width: 800px; /* Adjust as needed */
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+  margin-right: 500px;
+    margin-top: 100px;
+  }
+  .container20{
+    width: 800px; /* Adjust as needed */
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+  margin-right: 500px;
+    margin-top: 100px;
+  }
+   
