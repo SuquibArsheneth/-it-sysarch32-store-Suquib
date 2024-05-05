@@ -68,7 +68,7 @@ const ContainerProduct = () => {
                 <p>PRICE: {bag.bag_price}</p>
               </div>
             ))}
-            <button className="add-to-cart">Add To Cart</button>
+            {/* <button className="add-to-cart-4">Add To Cart</button> */}
           </div>
         
         </div>

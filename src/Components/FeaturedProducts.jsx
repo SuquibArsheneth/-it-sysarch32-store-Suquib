@@ -31,7 +31,7 @@ function FeaturedProducts() {
 
   return (
     <div className="featured-products-container">
-      <h2 className="featured-title">Featured Products</h2>
+     
       <div className="featured-product">
         <div className="featured-product-card">
           <div className="product-image-container">

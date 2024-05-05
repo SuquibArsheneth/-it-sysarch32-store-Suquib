@@ -70,7 +70,7 @@ const ChanelContainer = () => {
                 <p>PRICE: {bag.bag_price}</p>
               </div>
             ))}
-            <button className="add-to-cart">Add To Cart</button>
+            {/* <button className="add-to-cart-3">Add To Cart</button> */}
           </div>
         
         </div>

@@ -39,7 +39,9 @@ import Container from "./Components/Container.jsx";
 
 function App() {
   const [cartCount, setCartCount] = useState(0);
+  
 
+  
   
   const updateCart = (count) => {
     setCartCount(count); // Update cart count state

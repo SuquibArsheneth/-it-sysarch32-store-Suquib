@@ -15,7 +15,7 @@
   margin-top: 20px;
 }
 body{
-  background-color: rgb(170, 166, 162);
+  background-color: rgb(255, 255, 255);
 }
 /* index.css */
 
@@ -48,7 +48,7 @@ p {
 .featured-products-container {
   display: flex;
   margin-block-start: 40px;
-  margin-left: 450px;
+  margin-left: 280px;
 
 }
 .featured-title{
@@ -57,13 +57,12 @@ p {
 }
 .featured-product-card {
   width: 150px; 
-  border: 3px solid #ef2193;
-  border-radius: 10px;
+  border: 1px solid #000000;
   height: 200px;
   margin-left: 100px;
   margin-top: 50px;
   padding: 50px;
-  background-color: rgb(244, 170, 170);
+  background-color: rgb(255, 255, 255);
   border-radius: 30px;
   text-align: center;
   
@@ -86,19 +85,7 @@ p {
   margin-top: 20px;
 }
 
-/* Style for the product price */
-/* .product-price {
-  font-size: 16px;
-  color: #555;
-  margin-top: 20px;
-  margin-left: -20px;
-} */
 
-
-
-
-
-/* index.css */
 .navbar {
   position: fixed;
   z-index: 9999;
